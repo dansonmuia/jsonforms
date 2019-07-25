@@ -1,4 +1,5 @@
 # jsonforms
+[![Build Status](https://travis-ci.org/dansonmuia/jsonforms.svg?branch=master)](https://travis-ci.org/dansonmuia/jsonforms)
 
 This is a simple wrapper for using the popular WTForms library  to validate json data in flask applications.
 
