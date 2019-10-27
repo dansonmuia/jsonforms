@@ -38,8 +38,10 @@ Clone the repository, and:
 ```
 $ python3 -m venv venv
 
-$ pip install -r requirements-dev.txt
+$ source venv/bin/activate
 
-$ pytest tests.py
+(venv)$ pip install -r requirements-dev.txt
+
+(venv)$ pytest tests.py
 ```
 
